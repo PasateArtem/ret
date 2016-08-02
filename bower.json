@@ -1,0 +1,25 @@
+{
+  "name": "lesson-05",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "PasateArtem <juniorfront88@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "owl.carousel": "^2.1.6",
+    "jquery": "^3.1.0",
+    "fullpage.js": "^2.8.2",
+    "bxslider-4": "^4.2.5",
+    "requirejs": "^2.2.0"
+  }
+}
