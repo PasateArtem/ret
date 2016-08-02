@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.scss"],"names":[],"mappings":"AAIA,KACC,OAAA,EACA,QAAA,YAAA,QAAA,KAED,SACC,QAAA,YAAA,QAAA","file":"style.css","sourcesContent":["@import \"base/index\";\r\n@import \"layout/index\";\r\n\r\n\r\nbody{\r\n\tmargin: 0;\r\n\tdisplay: flex;\r\n}\r\n.wrapper{\r\n\tdisplay: flex;\r\n}"],"sourceRoot":"/source/"}
